@@ -13,9 +13,9 @@
     "@universal-ui/utils": "workspace:*"
   },
   "devDependencies": {
-    "@types/react": "~18.2.79",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "@types/react": "~18.3.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
     "react-native": "0.74.1",
     "react-native-unistyles": "^2.7.2"
   },

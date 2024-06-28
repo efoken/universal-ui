@@ -3986,7 +3986,7 @@ __metadata:
     expo-status-bar: "npm:~1.12.1"
     react: "npm:18.2.0"
     react-native: "npm:0.74.2"
-    react-native-safe-area-context: "npm:4.10.1"
+    react-native-safe-area-context: "npm:4.10.6"
     react-native-unistyles: "npm:^2.8.1"
   languageName: unknown
   linkType: soft
@@ -11133,13 +11133,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-safe-area-context@npm:4.10.1":
-  version: 4.10.1
-  resolution: "react-native-safe-area-context@npm:4.10.1"
+"react-native-safe-area-context@npm:4.10.6":
+  version: 4.10.6
+  resolution: "react-native-safe-area-context@npm:4.10.6"
   peerDependencies:
     react: "*"
     react-native: "*"
-  checksum: 10c0/4d9210f68535d90200a03e18015053f1bd72d6cb562866716d7a206e64956bd0d5fb022788f1882144193c554866e04a0a68c90600ca8c982ab3ab546a68c198
+  checksum: 10c0/3e0c8727fa19c09a65e3d5f9938259f32bbb22c03bd90550ec0836861e4a695148ac658fb65d3cfa7b136d4f145f9565098a76cadb9e3746dfe8fc02440cde4d
   languageName: node
   linkType: hard
 

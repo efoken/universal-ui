@@ -10,7 +10,7 @@
   "dependencies": {
     "@babel/core": "^7.24.7",
     "@babel/preset-env": "^7.24.7",
-    "@react-native/normalize-colors": "^0.74.84",
+    "@react-native/normalize-colors": "^0.74.85",
     "@testing-library/dom": "^10.2.0",
     "@testing-library/jest-dom": "^6.4.6",
     "@testing-library/react": "^16.0.0",

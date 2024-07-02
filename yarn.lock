@@ -3510,30 +3510,30 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tamagui/compose-refs@npm:^1.101.5":
-  version: 1.101.5
-  resolution: "@tamagui/compose-refs@npm:1.101.5"
+"@tamagui/compose-refs@npm:^1.101.7":
+  version: 1.101.7
+  resolution: "@tamagui/compose-refs@npm:1.101.7"
   peerDependencies:
     react: "*"
-  checksum: 10c0/0dbe4610aad804f761556a60f5c2c73f0e5839a200b05af1ecd1559f2b08f582300e9cf720e88864688a190dbc61f1ff981432f67f66b7240b68d3015ad48dfb
+  checksum: 10c0/78bbfc36ecca3db9e21a3fcae4db313371653918608f8dc56cb3e071446bc44b9a5ed5c465e3321d59c6619fcbcccf5c3c431c4860c9fca22fa45649ec7c7034
   languageName: node
   linkType: hard
 
-"@tamagui/constants@npm:^1.101.5":
-  version: 1.101.5
-  resolution: "@tamagui/constants@npm:1.101.5"
+"@tamagui/constants@npm:^1.101.7":
+  version: 1.101.7
+  resolution: "@tamagui/constants@npm:1.101.7"
   peerDependencies:
     react: "*"
-  checksum: 10c0/1d6ba46e72564098da6074b58c6a0067d5c909b1e6d2890bb200ebe3b58565d61dd0af8a81fb21875e0ac445093f9c12df602617da422a0cb9f71294d9ef44b0
+  checksum: 10c0/1733d8c3f0e2dc67023b84b30ac0bb51d13060eb250fc69780c8b15dffa31374f4d3f91ebf5472828779ed83660db07de0f2c66502be8f81369ba49791e1056a
   languageName: node
   linkType: hard
 
-"@tamagui/react-native-use-responder-events@npm:^1.101.5":
-  version: 1.101.5
-  resolution: "@tamagui/react-native-use-responder-events@npm:1.101.5"
+"@tamagui/react-native-use-responder-events@npm:^1.101.7":
+  version: 1.101.7
+  resolution: "@tamagui/react-native-use-responder-events@npm:1.101.7"
   peerDependencies:
     react: "*"
-  checksum: 10c0/35d5e2153cfaee3fc20f275e2de7c024fbefc07f5507cbc41a14befca974eb3b708f7ce40e94a7b1402d24ccd300d2ffe1de273b427a4e1d5e59c95b4053245a
+  checksum: 10c0/d063dc2284e46ae843d017f69fb43229981bff08fe45305f76914a75a806947f3323362c9cf8f17787ec3e5bcbae71f60d2ffaa8241f7895d4ea3961ba08042a
   languageName: node
   linkType: hard
 
@@ -4001,7 +4001,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@universal-ui/components@workspace:packages/components"
   dependencies:
-    "@tamagui/compose-refs": "npm:^1.101.5"
+    "@tamagui/compose-refs": "npm:^1.101.7"
     "@types/react": "npm:~18.2.79"
     "@universal-ui/core": "workspace:*"
     react: "npm:18.2.0"
@@ -4025,8 +4025,8 @@ __metadata:
     "@emotion/serialize": "npm:^1.1.4"
     "@emotion/utils": "npm:^1.2.1"
     "@react-native/normalize-colors": "npm:^0.74.84"
-    "@tamagui/constants": "npm:^1.101.5"
-    "@tamagui/react-native-use-responder-events": "npm:^1.101.5"
+    "@tamagui/constants": "npm:^1.101.7"
+    "@tamagui/react-native-use-responder-events": "npm:^1.101.7"
     "@types/react": "npm:~18.2.79"
     "@universal-ui/utils": "workspace:*"
     react: "npm:18.2.0"

@@ -20,8 +20,8 @@
     "react-native-unistyles": "^2.10.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.25.7",
-    "@babel/preset-env": "^7.25.7",
+    "@babel/core": "^7.25.8",
+    "@babel/preset-env": "^7.25.8",
     "@expo/metro-runtime": "~3.2.3",
     "@types/babel__core": "^7.20.5",
     "expo-modules-autolinking": "^1.11.3"

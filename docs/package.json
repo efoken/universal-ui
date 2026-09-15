@@ -17,7 +17,7 @@
     "@react-universal/elements": "workspace:*",
     "@react-universal/next": "workspace:*",
     "@shikijs/rehype": "^3.17.0",
-    "@types/node": "^24.10.1",
+    "@types/node": "^24.13.5",
     "@types/react": "~19.2.7",
     "@types/react-dom": "~19.2.3",
     "@types/webpack": "^5.28.5",
